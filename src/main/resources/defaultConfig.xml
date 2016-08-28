@@ -1,0 +1,4 @@
+<com.alltheducks.createuser.config.Configuration>
+  <settingOne>A default string value</settingOne>
+  <settingTwo>42</settingTwo>
+</com.alltheducks.createuser.config.Configuration>
